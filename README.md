@@ -1,24 +1,19 @@
-# 📊 Sales Dashboard  
+# Healthcare Patient Waitlist Dashboard
 
-## 🚀 Overview  
-The **Sales Dashboard** is an interactive and dynamic **Power BI** report designed to analyze and visualize sales data effectively. It provides key insights into **sales performance, revenue trends, customer behavior,** and **regional sales distribution**, helping businesses make data-driven decisions.  
+## Project Description  
+This **interactive Power BI dashboard** provides a comprehensive analysis of **patient waitlist data** across various specialties, case types, and time bands. It enables healthcare professionals and decision-makers to **monitor, analyze, and optimize patient wait times** for improved hospital efficiency and patient care.
 
-## ✨ Features  
-✅ **Sales Performance Analysis** – Track total sales, revenue, and profit margins over time.  
-✅ **KPI Monitoring** – Measure key performance indicators (KPIs) such as sales growth, profit, and top-performing products.  
-✅ **Time-Based Analysis** – Compare sales trends over different periods (daily, monthly, yearly).  
-✅ **Regional Insights** – View sales distribution across different locations and regions.  
-✅ **Interactive Filters & Drilldowns** – Filter data by product category, region, time period, and more.  
-✅ **Data Visualization** – Clean and intuitive charts, graphs, and tables for better understanding.  
+## Key Features  
+- **Summary Overview**: Displays the latest and previous month's total **patient waitlist count**, providing a quick glance at trends.  
+- **Case Type Split**: A **donut chart visualization** categorizing patient cases into **Outpatient, Day Case, and Inpatient**, along with percentage distribution.  
+- **Key Indicators - Patient Wait List**: A **stacked bar chart** showcasing **age-wise patient distribution** across different **waiting time bands** (0-3 months, 3-6 months, etc.).  
+- **Monthly Trend Analysis**: A **line chart** tracking trends in **Day Case, Inpatient, and Outpatient** over time, helping to visualize long-term variations.  
+- **Top Specialties**: Displays the **top medical specialties** by patient waitlist volume, offering insights into which departments handle the most cases.  
+- **Filters & Interactivity**: Users can **filter data dynamically** based on **archive date, case type, and specialty name** for a more customized view.  
 
-## 🛠️ Technologies Used  
-🔹 **Power BI** – Data visualization and interactive reporting  
-🔹 **DAX (Data Analysis Expressions)** – Custom calculations and measures  
-🔹 **Excel** – Data sources 
+## Impact & Benefits  
+✅ **Optimizes hospital resource allocation** by identifying bottlenecks in patient waiting times.  
+✅ **Supports data-driven decision-making** for healthcare administrators.  
+✅ **Enhances patient experience** by identifying areas for process improvement.  
 
-## 📥 Installation & Usage  
-1️⃣ **Download** the `.pbix` file and open it using **Power BI Desktop**.  
-2️⃣ Ensure that the dataset is properly connected and **refresh the data** if necessary.  
-3️⃣ Use the provided **filters and visuals** to explore sales insights interactively.  
-
-
+This dashboard **empowers healthcare stakeholders** with **actionable insights** to reduce wait times and improve operational efficiency! 🚀
